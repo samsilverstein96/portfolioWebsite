@@ -1,7 +1,7 @@
 {
   "name": "portfolio-app-sam-sil",
   "version": "0.1.0",
-  "homepage": "https://samsilverstein96.github.io/portfolioWebsite",
+  "homepage": "https://samsilversteinwebdev.com ",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
