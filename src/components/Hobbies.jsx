@@ -1,6 +1,4 @@
 import React from 'react'
-import Music from '../assets/music.svg'
-import Ai from '../assets/ai.svg'
 import Tennis from '../assets/tennis.jpg'
 import Basketball from '../assets/basketball.jpg'
 import Lotus from '../assets/lotus.jpg'

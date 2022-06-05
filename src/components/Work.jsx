@@ -1,6 +1,6 @@
 import React from 'react'
 import citigroup from '../assets/citigroup.png';
-import realEstate from '../assets/realestate.jpg';
+
 
 
 const work = () => {

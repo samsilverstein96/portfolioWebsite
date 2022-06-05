@@ -1,16 +1,8 @@
 import React from 'react'
-import HTML from '../assets/html.png';
-import CSS from '../assets/css.png';
 import JavaScript from '../assets/javascript.svg';
-import ReactImg from '../assets/react.png';
 import Node from '../assets/nodejs-icon.svg';
-import FireBase from '../assets/firebase.png';
-import AWS from '../assets/aws.png';
-import GitHub from '../assets/github.png';
-import Tailwind from '../assets/tailwind.png';
 import Mongo from '../assets/mongo.svg';
 import Angular from '../assets/angular.svg';
-import git from '../assets/git.svg'
 import Spring from '../assets/spring-icon.svg'
 import Java from '../assets/java.svg'
 
