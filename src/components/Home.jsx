@@ -36,8 +36,8 @@ const Home = () => {
               </div>
             </div>
 
-            <div className='w-full justify-center flex  h-auto border-none'> 
-                    <img className='w-auto  h-4/5 shadow-lg rounded-lg max-w-full align-middle border-2 border-[#66fcf1]' src={ProfilePic} alt="profile picture" />
+            <div className='w-full justify-center flex h-auto border-none'> 
+                    <img className='w-auto h-4/5 object-bottom shadow-lg rounded-lg max-w-full align-middle border-2 border-[#66fcf1]' src={ProfilePic} alt="profile picture" />
             </div>
             
           </div>
