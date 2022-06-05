@@ -11,7 +11,6 @@ const Hobbies = () => {
         <div className='max-w-[1500px] mx-auto p-4 flex flex-col justify-center w-full h-full'>
             <div>
                 <p className='text-4xl font-bold border-b-4 border-[#BAB2B5] text-[#66fcf1] '>Interests</p>
-                <p className='py-4 text-[#45a29e]'>These are the technologies I am proficient in</p>
             </div>
             <div  className='w-full grid lg:grid-cols-3 sm:grid-cols-2 gap-4 text-center py-32 font-extrabold'>
                 <div>
