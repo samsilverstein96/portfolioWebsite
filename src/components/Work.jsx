@@ -5,7 +5,7 @@ import citigroup from '../assets/citigroup.png';
 
 const work = () => {
   return (
-    <div name='work' className='w-full md:h-full text-[#C5C6C7] bg-[#0B0C10]'>
+    <div name='work' className='w-full md:h-screen lg:h-screentext-[#C5C6C7] bg-[#0B0C10]'>
       <div className='max-w-[1500px] mx-auto p-4 flex flex-col justify-center w-full h-full'>
         <div className='pb-8 text-center'>
           <p className='text-4xl font-bold inline border-b-4 text-[#C5C6C7] border-[#BAB2B5] '>
@@ -15,7 +15,7 @@ const work = () => {
         </div>
 
 {/* Container */}
-        <div className='grid grid-rows-2 grid-cols-2 gap-6 '>
+        <div className='grid sm:grid-cols-1 md:grid-cols-2 gap-6 '>
             <div className='w-full justify-center flex  h-full row-span-full border-none '> 
                     <img className='w-auto  h-4/5 my-30 rounded-lg  align-middle  ' src={citigroup} alt="profile picture" />
             </div>
@@ -42,7 +42,9 @@ const work = () => {
                  
                 </div>
             </div>
-
+            
+            <div>
+            </div>
             <div className='w-full h-4/5 justify-center flex'>
                 <div className= 'sm:text-right pb-8 pl-4'>
                   <div className=' flex flex-col space-y-4'>

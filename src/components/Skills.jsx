@@ -10,12 +10,12 @@ const Skills = () => {
   return (
     <div name='skills' className='w-full h-screen bg-[#0B0C10] '>
         {/* container */}
-        <div className='max-w-[1500px] mx-auto p-4 flex flex-col justify-center w-full h-full text-[#C5C6C7] font-bold inset-0'>
+        <div className='max-w-[1500px] mx-auto p-4 flex flex-col justify-center text-[#C5C6C7] font-bold'>
             <div>
                 <p className='text-4xl font-bold border-b-4 border-[#45a29e] '>Familiar Technologies</p>
                 <p className='py-4'>These are the technologies I am proficient in</p>
             </div>
-            <div className='w-full grid lg:grid-cols-3 md:grid-cols-2 gap-4 text-center py-8'>
+            <div className='w-full grid grid-cols-2 sm:grid-cols-3 gap-4 text-center py-8'>
                 <div className='shadow-sm shadow-[#45a29e] hover:scale-110 duration-75 rounded-xl'>
                     <img className='w-[175px] h-[175px] mx-auto my-3' src={Java} alt="HTML icon" />
                     <p className='my-4'>JAVA</p>

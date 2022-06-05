@@ -6,7 +6,7 @@ import Lotus from '../assets/lotus.jpg'
 
 const Hobbies = () => {
   return (
-    <div name='projects' className='w-full h-screen text-[#66fcf1] bg-[#0B0C10]'>
+    <div name='projects' className='w-full md:h-screen lg:h-screen text-[#66fcf1] bg-[#0B0C10]'>
         {/* container */}
         <div className='max-w-[1500px] mx-auto p-4 flex flex-col justify-center w-full h-full'>
             <div>

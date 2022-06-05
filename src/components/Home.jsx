@@ -7,11 +7,11 @@ import Resume from '../assets/samSilversteinResume.pdf'
 
 const Home = () => {
   return (
-    <div name = 'home' className=' w-full h-screen bg-[#0B0C10]'>
+    <div name = 'home' className=' w-full h-screen md:h-screen bg-[#0B0C10]'>
 
         {/* container */}
-        <div className='max-w-[1500px] mx-auto px-8 flex flex-col justify-center h-full'>
-          <div className='grid-cols-2 flex space-x-8'>
+        <div className=' justify-center h-full'>
+          <div className='grid sm:grid-cols-1 md:grid-cols-2 space-x-8'>
 
             <div className='w-full my-52'>
               <h1 className='text-4xl sm:text-7xl font-bold text-[#66fcf1]'>Sam Silverstein</h1>
