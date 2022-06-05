@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/portfolioWebsite/static/css/main.0dfdd665.css",
-    "main.js": "/portfolioWebsite/static/js/main.ce3fa964.js",
-    "static/media/profilepic.jpg": "/portfolioWebsite/static/media/profilepic.d56dc20971f51cacb345.jpg",
-    "static/media/lotus.jpg": "/portfolioWebsite/static/media/lotus.2cb967711cc748acbdf2.jpg",
-    "static/media/tennis.jpg": "/portfolioWebsite/static/media/tennis.70436edac9307bd0b98b.jpg",
-    "static/media/citigroup.png": "/portfolioWebsite/static/media/citigroup.b568a47ef642ddfe1dd0.png",
-    "static/media/samSilversteinResume.pdf": "/portfolioWebsite/static/media/samSilversteinResume.4fb49200bbcd31df44d2.pdf",
-    "static/media/basketball.jpg": "/portfolioWebsite/static/media/basketball.4858e90e3fc201d240a5.jpg",
-    "static/media/logo.png": "/portfolioWebsite/static/media/logo.7db197fe483e5aa514b1.png",
-    "static/media/mongo.svg": "/portfolioWebsite/static/media/mongo.153b7b440efa05666029a47da0d0baa0.svg",
-    "static/media/ai.svg": "/portfolioWebsite/static/media/ai.1a214013aa85ecb0bc1d17a55639889a.svg",
-    "static/media/spring-icon.svg": "/portfolioWebsite/static/media/spring-icon.1d88a919e86f544b396749902d12d991.svg",
-    "static/media/nodejs-icon.svg": "/portfolioWebsite/static/media/nodejs-icon.3dc364b8e9beb3561620274aea4f0844.svg",
-    "static/media/java.svg": "/portfolioWebsite/static/media/java.83165dfb2f5a7657ce4c73e0ba3cef32.svg",
-    "static/media/music.svg": "/portfolioWebsite/static/media/music.c629192933610b608d8f528384ad3f8d.svg",
-    "static/media/javascript.svg": "/portfolioWebsite/static/media/javascript.fd46ca41839433d73577989d86eb2fe2.svg",
-    "static/media/angular.svg": "/portfolioWebsite/static/media/angular.e185415c50bc1885eed6c6cc9d2b009e.svg",
-    "index.html": "/portfolioWebsite/index.html",
-    "main.0dfdd665.css.map": "/portfolioWebsite/static/css/main.0dfdd665.css.map",
-    "main.ce3fa964.js.map": "/portfolioWebsite/static/js/main.ce3fa964.js.map"
+    "main.css": "/static/css/main.0dfdd665.css",
+    "main.js": "/static/js/main.6bd4ac36.js",
+    "static/media/profilepic.jpg": "/static/media/profilepic.d56dc20971f51cacb345.jpg",
+    "static/media/lotus.jpg": "/static/media/lotus.2cb967711cc748acbdf2.jpg",
+    "static/media/tennis.jpg": "/static/media/tennis.70436edac9307bd0b98b.jpg",
+    "static/media/citigroup.png": "/static/media/citigroup.b568a47ef642ddfe1dd0.png",
+    "static/media/samSilversteinResume.pdf": "/static/media/samSilversteinResume.4fb49200bbcd31df44d2.pdf",
+    "static/media/basketball.jpg": "/static/media/basketball.4858e90e3fc201d240a5.jpg",
+    "static/media/logo.png": "/static/media/logo.7db197fe483e5aa514b1.png",
+    "static/media/mongo.svg": "/static/media/mongo.153b7b440efa05666029a47da0d0baa0.svg",
+    "static/media/ai.svg": "/static/media/ai.1a214013aa85ecb0bc1d17a55639889a.svg",
+    "static/media/spring-icon.svg": "/static/media/spring-icon.1d88a919e86f544b396749902d12d991.svg",
+    "static/media/nodejs-icon.svg": "/static/media/nodejs-icon.3dc364b8e9beb3561620274aea4f0844.svg",
+    "static/media/java.svg": "/static/media/java.83165dfb2f5a7657ce4c73e0ba3cef32.svg",
+    "static/media/music.svg": "/static/media/music.c629192933610b608d8f528384ad3f8d.svg",
+    "static/media/javascript.svg": "/static/media/javascript.fd46ca41839433d73577989d86eb2fe2.svg",
+    "static/media/angular.svg": "/static/media/angular.e185415c50bc1885eed6c6cc9d2b009e.svg",
+    "index.html": "/index.html",
+    "main.0dfdd665.css.map": "/static/css/main.0dfdd665.css.map",
+    "main.6bd4ac36.js.map": "/static/js/main.6bd4ac36.js.map"
   },
   "entrypoints": [
     "static/css/main.0dfdd665.css",
-    "static/js/main.ce3fa964.js"
+    "static/js/main.6bd4ac36.js"
   ]
 }
