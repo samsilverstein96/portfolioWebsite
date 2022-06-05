@@ -10,7 +10,7 @@ const Home = () => {
     <div name = 'home' className=' w-full h-screen md:h-screen bg-[#0B0C10]'>
 
         {/* container */}
-        <div className=' justify-center h-full'>
+        <div className=' justify-center lg:h-full h-4/5'>
           <div className='grid sm:grid-cols-1 md:grid-cols-2 space-x-8'>
 
             <div className='w-full my-52'>

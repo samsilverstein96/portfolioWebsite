@@ -22,7 +22,7 @@ const Hobbies = () => {
                 <div className=''>
                     <img className='w-[250px] h-[250px] mx-auto my-3 rounded-full hover:scale-110 duration-75 ' src={Basketball} alt="HTML icon" />
                     <p className='my-4 text-xl'>Basketball</p>
-                    <p className='font-bold'>I have a love and fascination for the sport of basketball. I enjoy reading about basekebtall anlytics as muchy as I enjoy watching games.
+                    <p className='font-bold'>I have a love and fascination for the sport of basketball. I enjoy reading about basketball anlytics as much as I enjoy watching games.
                         Some of my favorite baskebtall books include The Midrange Theory and Sprawlball
                     </p>
                 </div>
@@ -30,7 +30,7 @@ const Hobbies = () => {
                     <img className='w-[250px] h-[250px] mx-auto my-3 rounded-full hover:scale-110 duration-75' src={Lotus} alt="HTML icon" />
                     <p className='my-4 text-xl'>Magic the Gathering</p>
                     <p className='font-bold'>
-                        I love playing and collecting magic. I regularly enter tournaments at my local game store. 
+                        I love playing and collecting magic the gathering cards. I regularly enter tournaments at my local game store. 
                     </p>
                 </div>
             </div>
